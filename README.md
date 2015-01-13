@@ -1,5 +1,7 @@
 ## BtSync Dockerfile
 
+[![Docker Hub](https://img.shields.io/badge/docker-mkaag%2Fbtsync-008bb8.svg)](https://registry.hub.docker.com/u/mkaag/btsync/)
+
 This repository contains the **Dockerfile** and the configuration file of [BitTorrent Sync](http://www.getsync.com/) for [Docker](https://www.docker.com/).
 
 ### Base Docker Image
